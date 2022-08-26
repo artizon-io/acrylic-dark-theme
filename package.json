@@ -1,0 +1,33 @@
+{
+  "name": "acrylic-dark-theme",
+  "displayName": "Acrylic Dark Theme",
+  "description": "A high-contrast dark theme with 3 colors only",
+  "publisher": "acrylic",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mingsumsze/acrylic-dark-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "acrylic",
+    "dark theme",
+    "acrylic theme",
+    "acrylic dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Acrylic Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Acrylic Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
