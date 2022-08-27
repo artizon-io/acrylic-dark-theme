@@ -1,6 +1,6 @@
 # Acrylic Dark Theme
 
-A high-contrast dark theme that uses only 3 muted colors for syntax highlighting.
+A high-contrast dark theme that uses only 5 muted colors for syntax highlighting.
 
 ## Theme showcase
 

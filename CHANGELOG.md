@@ -25,3 +25,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.5]
 
 - Enhance styles
+
+## [0.0.6]
+
+- More consistent styles
+- Higher coverage

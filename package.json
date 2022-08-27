@@ -1,9 +1,9 @@
 {
   "name": "acrylic-dark-theme",
   "displayName": "Acrylic Dark Theme",
-  "description": "A high-contrast dark theme that uses only 3 muted colors for syntax highlighting",
+  "description": "A high-contrast dark theme that uses only 5 muted colors for syntax highlighting",
   "publisher": "acrylic",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/mingsumsze/acrylic-dark-theme.git"
